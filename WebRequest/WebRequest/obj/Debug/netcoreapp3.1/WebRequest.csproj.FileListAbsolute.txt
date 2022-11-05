@@ -1,0 +1,14 @@
+C:\Users\fikri\source\repos\WebRequest\WebRequest\bin\Debug\netcoreapp3.1\WebRequest.exe
+C:\Users\fikri\source\repos\WebRequest\WebRequest\bin\Debug\netcoreapp3.1\WebRequest.deps.json
+C:\Users\fikri\source\repos\WebRequest\WebRequest\bin\Debug\netcoreapp3.1\WebRequest.runtimeconfig.json
+C:\Users\fikri\source\repos\WebRequest\WebRequest\bin\Debug\netcoreapp3.1\WebRequest.runtimeconfig.dev.json
+C:\Users\fikri\source\repos\WebRequest\WebRequest\bin\Debug\netcoreapp3.1\WebRequest.dll
+C:\Users\fikri\source\repos\WebRequest\WebRequest\bin\Debug\netcoreapp3.1\WebRequest.pdb
+C:\Users\fikri\source\repos\WebRequest\WebRequest\obj\Debug\netcoreapp3.1\WebRequest.csproj.AssemblyReference.cache
+C:\Users\fikri\source\repos\WebRequest\WebRequest\obj\Debug\netcoreapp3.1\WebRequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fikri\source\repos\WebRequest\WebRequest\obj\Debug\netcoreapp3.1\WebRequest.AssemblyInfoInputs.cache
+C:\Users\fikri\source\repos\WebRequest\WebRequest\obj\Debug\netcoreapp3.1\WebRequest.AssemblyInfo.cs
+C:\Users\fikri\source\repos\WebRequest\WebRequest\obj\Debug\netcoreapp3.1\WebRequest.csproj.CoreCompileInputs.cache
+C:\Users\fikri\source\repos\WebRequest\WebRequest\obj\Debug\netcoreapp3.1\WebRequest.dll
+C:\Users\fikri\source\repos\WebRequest\WebRequest\obj\Debug\netcoreapp3.1\WebRequest.pdb
+C:\Users\fikri\source\repos\WebRequest\WebRequest\obj\Debug\netcoreapp3.1\WebRequest.genruntimeconfig.cache
